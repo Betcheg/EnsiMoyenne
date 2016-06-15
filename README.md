@@ -1,7 +1,10 @@
 # EnsiMoyenne
 Script non officiel pour calculer et afficher sa moyenne automatiquement sur l'interface zenith. 
+
 USerscript à installer avec TamperMonkey.
+
 Autre alternative, rentrez directement le code suivant dans la console du navigateur sur la page des notes:
+
 ```javascript
 var k=0; // Coefficient total
 var m=0; // Nombre de points total
